@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishabh Parmar
 ======================================================================================================================================
 
@@ -6,10 +8,11 @@ Software Developer
 
 Hello there! 👋 I'm Rishabh, a passionate software developer on an exciting journey of learning and exploration. With a keen interest in data engineering and machine learning, I'm dedicated to mastering programming languages and cutting-edge technologies. My aim? To leverage my evolving skill set in crafting innovative solutions for real-world challenges. Let's code our way to excellence together! 💻✨
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [rishabhparmar843@gmail.com](mailto:rishabhparmar843@gmail.com)
+* 🌍  I'm based in India <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+* ✉️  You can contact me at [rishabhparmar843@gmail.com](mailto:rishabhparmar843@gmail.com) 
 * 🧠  I'm learning Spark, Snowflake, AWS
 * ⚡  I'm secretly Spiderman... but don't tell anyone
+
 
 ### Skills
 

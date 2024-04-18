@@ -13,11 +13,11 @@ Hello there! 👋 I'm Rishabh, a passionate software developer on an exciting jo
 * 🧠  Currently learning data engineering and analytics!
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,git,html,css,js,kafka,linux,ubuntu,sublime,vscode,docker,figma,firebase,&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,git,html,css,js,kafka,linux,ubuntu,sublime,vscode,docker,figma,firebase,&theme=dark&perline=9)](https://skillicons.dev)
 
 
 ### Socials

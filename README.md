@@ -17,7 +17,7 @@ Hello there! 👋 I'm Rishabh, a passionate software developer on an exciting jo
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,git,html,css,js,kafka,linux,ubuntu,sublime,vscode,docker,figma,firebase,&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,git,html,css,js,kafka,linux,ubuntu,sublime,vscode,docker,figma,firebase,&theme=dark&perline=7)](https://skillicons.dev)
 
 
 ### Socials

@@ -6,7 +6,7 @@ Software Developer
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="width: auto">
 
-Hello there! 👋 I'm Rishabh, a passionate software developer on an exciting journey of learning and exploration. With a keen interest in data engineering and machine learning, I'm dedicated to mastering programming languages and cutting-edge technologies. My aim? To leverage my evolving skill set in crafting innovative solutions for real-world challenges. Let's code our way to excellence together! 💻✨
+Hello there! 👋 I'm Rishabh, a passionate software developer on an exciting journey of learning and exploration. With a keen interest in data engineering and analysis, I'm dedicated to mastering programming languages and cutting-edge technologies. My aim? To leverage my evolving skill set in crafting innovative solutions for real-world challenges. Let's code our way to excellence together! 💻✨
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rishabhparmar843@gmail.com](mailto:rishabhparmar843@gmail.com) 
